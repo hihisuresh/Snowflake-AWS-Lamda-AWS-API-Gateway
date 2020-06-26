@@ -1,7 +1,10 @@
 
 Snowflake External Function using AWS Lambda and AWS API Gateway  - A “Hello World” example
 
-See attached Word document (Snowflake External Function using AWS Lambda.docx) for the screenshots of each step  from AWS Console & Snowflake UI
+See attached Word document <a href="https://github.com/hihisuresh/Snowflake-AWS-Lamda-AWS-API-Gateway/blob/master/Snowflake%20External%20Function%20using%20AWS%20Lambda.docx">Snowflake External Function using AWS Lambda.docx</a> for the screenshots of each step  from AWS Console & Snowflake UI
+
+
+ 
 
  
  Reference : https://docs.snowflake.com/en/sql-reference/external-functions-creating-aws.html
